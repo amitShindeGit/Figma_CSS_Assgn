@@ -18,7 +18,7 @@ body {
 }
 
 .container-sec {
-  max-width: 80rem;
+  /* max-width: 95rem; */
   padding: 0 0.2rem;
   margin: 3rem auto 0;
 }
@@ -189,7 +189,7 @@ body {
 .box-container {
   border: 1px solid #d7dee4;
   border-radius: 0.5rem;
-  max-width: 68rem;
+  max-width: 72rem;
   margin-bottom: 3rem;
 }
 
@@ -239,9 +239,6 @@ body {
   font-size: 1rem;
 }
 
-.box-container {
-  max-width: 68rem;
-}
 
 .table-section {
   display: flex;
